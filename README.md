@@ -29,5 +29,4 @@ p(T) / \gcd(p(T), w(T)), \quad w(T) / \gcd(p(T), w(T))
 - Utilize **binary search** on the ratio to find the maximum possible value.
 - Employ **Greedy techniques** to optimize the spanning tree selection.
 
-### 💡 Example
-#### **Input**
+
